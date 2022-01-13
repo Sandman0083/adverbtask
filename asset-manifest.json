@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adverbtask/static/css/main.89ba6c06.css",
+    "main.js": "/adverbtask/static/js/main.3336e64c.js",
+    "static/js/787.edd59a96.chunk.js": "/adverbtask/static/js/787.edd59a96.chunk.js",
+    "index.html": "/adverbtask/index.html",
+    "main.89ba6c06.css.map": "/adverbtask/static/css/main.89ba6c06.css.map",
+    "main.3336e64c.js.map": "/adverbtask/static/js/main.3336e64c.js.map",
+    "787.edd59a96.chunk.js.map": "/adverbtask/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89ba6c06.css",
+    "static/js/main.3336e64c.js"
+  ]
+}
